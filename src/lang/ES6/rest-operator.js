@@ -1,7 +1,8 @@
 
 /**
+ * 
  * Rest operator takes any number of arguments and put it into Array
- * @param  {...any} numbers 
+ *  
  */
 
 function sum(...numbers) {
